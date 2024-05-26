@@ -1,5 +1,5 @@
-# Entregable 2
+# Namer
 
-Entregable 2 speed dial, counter y cambio de layout.
+Aplicacion generador de palabras con favoritos.
 
 Autor: [Juan Pedro Armella](mailto:juanpedroarmella@gmail.com)
